@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>WPD_PR8</title>
+</head>
+<body>
+    <h1><b>FIVE MATHEMATICAL SYMBOLS</b></h1>
+    <li>Addition: &plus;</li>
+    <li>Subtraction: &minus;</li>
+    <li>Multiplication: &times;</li>
+    <li>Division: &divide;</li>
+    <li>Square root: &radic;</li>
+
+</body>
+</html>
